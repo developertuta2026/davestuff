@@ -21,14 +21,7 @@
 title: Dave Stuff
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem ipsum dolor sit amet exercitation. Ullamco est fugiat aute ex minim 
-  fugiat irure voluptate laborum occaecat exercitation elit quis do deserunt 
-  occaecat aliqua est labore culpa irure. Laboris in, officia pariatur voluptate 
-  veniam adipisicing velit anim est laborum duis ullamco sint. Veniam non, 
-  nostrud et duis anim proident dolor magna do dolore ea duis adipisicing. 
-  Commodo minim cupidatat irure laborum deserunt qui pariatur anim mollit do 
-  tempor Lorem consequat do officia duis pariatur anim. Id sint duis consectetur 
-  duis nisi fugiat officia duis eu nostrud proident labore elit esse anim qui 
-  excepteur sunt.
+  the cat sat on the mat.
 baseurl: "/davestuff" # the subpath of your site, e.g. /blog
 url: "https://developertuta2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
